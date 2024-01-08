@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @heyrajib
+- 👋 Hi, I’m Rajib Gupta
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me (rajib.gupta@ogmaconceptions.com)
