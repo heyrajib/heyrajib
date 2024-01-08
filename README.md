@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @heyrajib
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning NestJs
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me (rajib.gupta@ogmaconceptions.com)
 
 <!---
