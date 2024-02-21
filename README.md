@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rajib Gupta
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Flutter
-- 📫 How to reach me (rajib.gupta@ogmaconceptions.com)
+- 📫 How to reach me (rajib.gupta@ogmaconceptions.com / rajib@appstango.com)
 
 <!---
 heyrajib/heyrajib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
